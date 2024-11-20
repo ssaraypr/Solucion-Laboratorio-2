@@ -1,8 +1,8 @@
 <p align='center'>
 <p>
-
 <h1 align='center'>
- <b>DESCRIPCIÓN DEL PROYECTO INDIVIDUAL Nº2</b>
+<b>DESCRIPCIÓN DEL PROYECTO INDIVIDUAL Nº2</b>
+<img src = "https://rom-mayer.cl/wp-content/uploads/2023/05/Infraestructura-de-comunicaciones.jpg">
 </h1>
 
 ## **Descripción del problema -contexto y rol a desarrollar-**
