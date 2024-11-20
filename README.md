@@ -7,6 +7,7 @@
 
 ## **Descripción del problema -contexto y rol a desarrollar-**
 Una empresa de servicios de internet desea obtener una visión completa y actualizada del estado de este servicio en Argentina, con el cual se espera que la empresa entar a la empresa pueda identificar oportunidades de mejora en la calidad de sus servicios, asi como también plantear soluciones personalizadas de acuerdo al mercado.
+En el desarrollo de este repositorio estarémos interpretando el rol de Data Analyst con la finalidad de elaborar el análisis solicitado  y presentar conclusiones reelevantes.
 
 ## **Contenido del repositorio**
 
